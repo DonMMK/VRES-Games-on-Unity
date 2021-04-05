@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{2C0FC264-989D-4EFA-0703-3F12EEF49352}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Enemy.cs">
+    <Files>
+      <File FileName="Assets/Enemy.cs" Line="25" Column="10" />
+      <File FileName="Assets/Bird.cs" Line="12" Column="1" />
+      <File FileName="Assets/LevelController.cs" Line="25" Column="45" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="a44a3730-2ec7-4760-840f-c7bf11b905bb" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

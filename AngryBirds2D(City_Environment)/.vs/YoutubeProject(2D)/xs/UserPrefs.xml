@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{02859AD6-099A-3A4B-6681-391E17E72BF0}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Bird.cs">
+    <Files>
+      <File FileName="Assets/Bird.cs" Line="57" Column="60" />
+      <File FileName="Assets/Enemy.cs" Line="29" Column="6" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="5961b1f2-b278-48fa-89b8-eda4bc677fb0" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
