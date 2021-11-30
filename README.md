@@ -14,7 +14,7 @@
 ---
 ### Completed Project
 - Given below is the outcome of the 2 sets of games that were fully developed over the course of the research duration.
-- ![](VRES_Games.png)
+![](VRES_Games.png)
 ---
 ### Notes about the Project
 - More levels and extra features could be added to the project.
